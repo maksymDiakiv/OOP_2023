@@ -1,0 +1,14 @@
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\bin\Debug\net6.0\OOP_labs_fixed.exe
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\bin\Debug\net6.0\OOP_labs_fixed.deps.json
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\bin\Debug\net6.0\OOP_labs_fixed.runtimeconfig.json
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\bin\Debug\net6.0\OOP_labs_fixed.dll
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\bin\Debug\net6.0\OOP_labs_fixed.pdb
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.AssemblyInfoInputs.cache
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.AssemblyInfo.cs
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.csproj.CoreCompileInputs.cache
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.dll
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\refint\OOP_labs_fixed.dll
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.pdb
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\OOP_labs_fixed.genruntimeconfig.cache
+D:\programming\c#projects\OOP_labs_fixed\OOP_labs_fixed\obj\Debug\net6.0\ref\OOP_labs_fixed.dll

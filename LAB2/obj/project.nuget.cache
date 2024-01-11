@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dCrFjKyWWDPuVoqfu+N5kjKm8O32p+8LFLhn8pMSD884jyWcIYRoJn5Lb6NJ4wE/+AnMF65w2Q2oMXgrQivkmg==",
+  "dgSpecHash": "VgehlPk/Yo9B9LzVJ3LiWrCvg5RcHVf96GdNUtoCeuyWnbXNFqS9fIhtJvFG2yXkoQM043Eok8Dlze7aFo9ZzQ==",
   "success": true,
-  "projectFilePath": "F:\\prog_Obiektowe\\LAB2\\LAB2\\LAB2.csproj",
+  "projectFilePath": "C:\\Users\\trajzer\\Documents\\OOP2023\\LAB2\\LAB2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\w68138\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+    "C:\\Users\\trajzer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

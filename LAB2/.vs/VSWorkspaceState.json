@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Constructions",
+    "\\Constructions\\Models",
+    "\\IndustrialHalls",
+    "\\ResidentalBuildings"
   ],
+  "SelectedNode": "\\ResidentalBuildings\\ResidentalBuilding.cs",
   "PreviewInSolutionExplorer": false
 }
